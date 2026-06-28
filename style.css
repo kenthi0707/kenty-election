@@ -309,7 +309,7 @@ h3 {
 .hero-visual {
   position: absolute;
   right: clamp(-40px, 2vw, 24px);
-  bottom: -48px; /* ポスターを下にずらして左テキストと重ならないように */
+  bottom: -80px; /* ポスターを下にずらして左テキストと重ならないように */
   z-index: 1;
   width: min(42vw, 440px);
   pointer-events: none;
